@@ -1,0 +1,23 @@
+.title{
+    font-family: 'Overpass Mono', monospace;
+    font-size: 48px;
+    color: white;
+}
+
+.intro_head{
+    font-family: 'Overpass Mono', monospace;
+    color: #88796A;
+    font-size: 48px;
+}
+
+.byline{
+    font-family: 'Raleway', sans-serif;
+    color: white;
+    font-size: 24px;
+}
+
+.introduction{
+    font-family: 'Raleway', sans-serif;
+    font-size:  20px;
+    color: #FFFFFF;
+}

@@ -1,0 +1,8 @@
+body {
+    background-color: #282F3A;
+}
+
+.bg_image{
+    background-image: url("assets/Background1.jpg");
+    height: 759px;
+}
