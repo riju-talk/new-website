@@ -5,4 +5,5 @@ body {
 .bg_image{
     background-image: url("assets/Background1.jpg");
     height: 759px;
+    background-size: cover;
 }
