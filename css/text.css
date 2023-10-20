@@ -2,6 +2,9 @@
     font-family: 'Overpass Mono', monospace;
     font-size: 48px;
     color: white;
+    bottom: 670px;
+    position: relative;
+    z-index: 78;
 }
 
 .intro_head{
@@ -14,6 +17,9 @@
     font-family: 'Raleway', sans-serif;
     color: white;
     font-size: 24px;
+    position: relative;
+    z-index: 78;
+    bottom: 670px;
 }
 
 .introduction{
@@ -22,13 +28,15 @@
     color: #FFFFFF;
 }
 #intro_content{
+    position: relative;
     text-align: center;
     align-content: center;
+    height: 1050px;
 }
 
-.intro{
-    position: sticky;
+#intro_full{
     text-align:start;
-    margin-left: 5%;
-    margin-right: 5%;
+    margin-left: 100px;
+    margin-right: 100px;
+    bottom: 50px;
 }

@@ -3,6 +3,22 @@ body {
 }
 
 #bg_image{
-   size: 10px;
-   display: block;
+    z-index: 20;
+    position: relative;
+    height: 1000px;
+    width: 101%;
+    size: 10px;
+    display: block;
+    right: 10px;
+    bottom: 10px;
+    filter: brightness(70%);
+}
+
+footer{
+    position: static;
+    background-color: #1D1B19;
+    height: 700px;
+    width: 101%;
+    top: 30px;
+    right: 30px;
 }
